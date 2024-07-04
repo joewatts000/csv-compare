@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "npm run vercel-build"
   },
   "author": "",
   "license": "ISC",
